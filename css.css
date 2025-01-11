@@ -63,3 +63,8 @@ text-align: center;
 padding-top: 350px;
 font-size: 5em
 }
+
+html {
+    scrollbar-color: rgb(8, 168, 168) rgb(23, 94, 94);
+    scrollbar-width: thin;
+}
