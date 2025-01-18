@@ -68,3 +68,21 @@ html {
     scrollbar-color: rgb(8, 168, 168) rgb(23, 94, 94);
     scrollbar-width: thin;
 }
+
+@media screen and(max-widht:600p) {
+    .content {
+        font-size:100px;
+    }
+
+    a {
+        font-size:1em;
+    }
+
+    p {
+        font-size: 1em;
+    }
+
+    h1 {
+        width: 220px;
+    }
+}
